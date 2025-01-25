@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\Naresh_iT\1.Core_Java\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
